@@ -30,7 +30,7 @@ To run this application, you need:
 1. Clone this repository to your local machine:
 
    ```shell
-   https://github.com/pmishratech/football-dashboard-client
+   https://github.com/pmishratech/football-scoreboard-client
 ### Usage
 The FootballMatchClient class serves as an example of how to use the MatchManager class to manage football matches. It demonstrates the following actions:
 
